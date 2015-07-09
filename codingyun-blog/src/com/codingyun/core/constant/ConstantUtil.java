@@ -11,6 +11,10 @@ public class ConstantUtil {
 	
 	public static String SERVER_URL = "http://" + SERVER_IP;   //新增文章，添加图片时需要回显图片
 	/**
+	 * 演示文件存储位置
+	 */
+	public static String DATA_REAL_PATH_DEMO_DEMOFILE = "/alidata/dataFile/demo/demoFile/";
+	/**
 	 * 文章图片存储位置
 	 */
 	public static String DATA_REAL_PATH_ARTICLE_IMG = "/alidata/dataFile/blog/article/img/";

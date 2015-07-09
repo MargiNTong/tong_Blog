@@ -34,6 +34,7 @@
 		<li class="article"><a href="/system/map" target="mainframe"><i class="icon-user"></i>地图test</a></li>
 		<li class="article"><a href="/system/test" target="mainframe"><i class="icon-user"></i>图片导航</a></li>
 		<li class="article"><a href="/system/test/getHashEncryptPage" target="mainframe"><i class="icon-lock"></i>哈希加密算法</a></li>
+		<li class="article"><a href="/demo/upload" target="mainframe"><i class="icon-lock"></i>上传图片演示</a></li>
 	</ul>	
 	
 	<hr />
