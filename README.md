@@ -5,3 +5,4 @@
 具体内容可以下载源码运行查看。
 网站示例可以直接查看我的博客：
 coding云，http://www.codingyun.com/
+**_Coding云需要您的捐赠，捐赠页面_**：http://www.codingyun.com/codingEvent
